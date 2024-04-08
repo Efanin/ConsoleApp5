@@ -24,6 +24,7 @@ List<string> words =  new List<string>() {
 };
 */
 
+
 List<string> badwords = new List<string>()
 {
     "Светозар",
